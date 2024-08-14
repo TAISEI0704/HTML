@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: white;
+    background-color: brown;
+    text-align: center;
+}
+
+.top-section {
+    width: 100vw;
+    height: 50vh;
+    background-color: aqua;
+    padding: 0 20px;
+}
+
+h2 {
+    padding: 20px 0;
+}
+
+ul {
+    list-style: none;
+    border: black 1px solid;
+    margin: 20px;
+    padding: 20px;
+}
+
+li {
+    margin: 10px 0;
+}
+
+.second-section {
+    width: 100vw;
+    height: 50vh;
+    background-color: greenyellow;
+    padding: 0 20px;
+}
