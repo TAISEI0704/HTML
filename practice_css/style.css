@@ -1,0 +1,30 @@
+h1 {
+    color: red;
+    background-color: greenyellow;
+    border: black 3px solid;
+    font-size: 50px;
+    text-align: center;
+}
+
+
+p {
+    background-color: greenyellow;
+    border: black 1px solid;
+    font-size: 20px;
+    width: 500px;
+    height: 600px;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    background-color: red;
+    border: 5px solid black;
+    /* display: inline-block; */
+    /* height: 200px;
+    width: 200px; */
+}
