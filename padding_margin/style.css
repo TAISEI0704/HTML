@@ -1,0 +1,28 @@
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+
+h1{
+    color: red;
+}
+
+ul{
+    list-style: none;
+    background-color: greenyellow;
+    border: 1px solid black;
+    /* padding: 10px 20px; */
+    margin: 60px;
+}
+
+.container{
+    width: 500px;
+    height: 500px;
+    background-color: red;
+}
+
+.top-box{
+    background-color: greenyellow;
+    padding: 20px;
+    margin: 20px;
+}
